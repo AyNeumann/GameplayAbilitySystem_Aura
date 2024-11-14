@@ -10,3 +10,8 @@ void UAuraWidgetController::SetWigetControllerParams(const FWidgetControllerPara
 	AbilitySystemComponent = WCParams.AbilitySystemComponent;
 	AttributeSet = WCParams.AttributeSet;
 }
+
+void UAuraWidgetController::BroadacstInitialValues()
+{
+	
+}
