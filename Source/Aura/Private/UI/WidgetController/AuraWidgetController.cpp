@@ -15,3 +15,8 @@ void UAuraWidgetController::BroadacstInitialValues()
 {
 	
 }
+
+void UAuraWidgetController::BindCallbacksToDependencies()
+{
+	
+}

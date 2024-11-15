@@ -7,7 +7,7 @@
 UAuraAttributeSet::UAuraAttributeSet()
 {
 	// Function Init*** created with GAMEPLAYATTRIBUTE_VALUE_INITTER macro @see: AttributeSet.h
-	InitHealth(100.f);
+	InitHealth(50.f);
 	InitMaxHealth(100.f);
 	InitMana(50.f);
 	InitMaxMana(50.f);

@@ -42,6 +42,7 @@ public:
 	UFUNCTION(BlueprintCallable)
 	void SetWigetControllerParams(const FWidgetControllerParams& WCParams);
 	virtual void BroadacstInitialValues();
+	virtual void BindCallbacksToDependencies();
 	
 protected:
 
